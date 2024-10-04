@@ -1,0 +1,28 @@
+body {
+    color: blue;
+}
+
+h1 {
+    color: pink;
+}
+
+.matkapilt {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.matkapilt {
+    display: block;
+    width: 40%;
+}
+
+.konteiner {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+matk {
+    width: 20rem;
+}
